@@ -4,6 +4,8 @@ Combining Planning and Deep RL for acting in relational domains
 
 This repository contains batch RL based implementation of RePReL with deep reinforcement learning as well as deep relational reinforcement learning. More details about the batch RePReL learning algorithm can be found in our paper [here](https://openreview.net/forum?id=ffLKUFlsFK0). 
 
+> Implementation of [Hybrid Deep RePReL](https://starling.utdallas.edu/papers/HybridDeepRePReL/) to be added soon.
+
 ## Installation
 
 1. Clone the github repo
